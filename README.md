@@ -20,17 +20,6 @@
 
 ---
 
-📂 **Featured Projects**
-
-- 📦 [DockNest](https://github.com/ritu-pixel/DockNest) — Dockerized App Deployment
-- 📊 [Evidential-AI](https://github.com/ritu-pixel/Evidential-AI) — ML Monitoring using Evidently AI
-- 📚 [MultiPage-Streamlit-App](https://github.com/ritu-pixel/MultiPage-) — Streamlit Multi-Page Application
-- 🌐 [Fast-API-Server](https://github.com/ritu-pixel/fast-api-server) — Basic FastAPI Backend Server
-- 🛠 [Jenkins Declarative Pipeline](https://github.com/ritu-pixel/Jenkins-Declarative-Pipeline) — Jenkins Automation Pipeline Demo
-- 🎨 [Portfolio Website](https://github.com/ritu-pixel/Portfolio_Ritu) — My personal HTML portfolio site
-
----
-
 📈 **Current Focus**
 
 - Learning advanced Cloud Computing techniques
